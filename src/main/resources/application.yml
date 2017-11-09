@@ -1,0 +1,18 @@
+server:
+    address: localhost
+    port: 8888
+    contextPath: /SpringCouchbaseDemo
+  
+spring:
+  application:
+    name: SpringCouchbaseDemo
+    
+      
+couchbase:
+  host: 192.168.1.155
+  bucket: 
+    name: demo_bucket
+    password: password    
+     
+    
+
